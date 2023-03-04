@@ -1,6 +1,7 @@
 /* Titik.java 01/03/23
 Penulis : Victorio Cristiansa Putra
 Deskripsi : kelas yang berisikan titik - titik yang sudah dibuat */
+
 class Titik {
 	private double absis;
 	private double ordinat;

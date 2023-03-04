@@ -2,6 +2,7 @@
 /* OperasiTitik.java 01/03/23
 Penulis : Victorio Cristiansa Putra
 Deskripsi : kelas yang berisi 2 buah prosedur untuk refleksi terhadap sumbu X dan sumbu Y */
+
 class OperasiTitik {
     private void refleksiSumbuX(Titik titik) {
         double ordinat=titik.getOrdinat();

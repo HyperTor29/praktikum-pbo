@@ -45,14 +45,15 @@ class TimSepakbola {
   }
 
   // TODO: Implement goal() method. Skor will be added by 1 for every single goal from the team
+  void goal() {
     if (Boolean.FALSE.equals(this.isOnMatch)) {
       System.out.println("Tim " + this.nama + " TIDAK sedang dalam pertandingan!");
      return;
-   }
+    }
     else {
      this.skor = this.skor + 1;
-   }
-
+    }
+  }
   // TODO: Implement getSkor() method. This is a selector to get the score for a team
   int getSkor() {
     // DO NOT change the if condition

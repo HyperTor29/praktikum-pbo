@@ -16,7 +16,7 @@ class TimSepakbola {
 
   // TimSepakbola(nama: string)
   // TODO: Create an overloading constructor below this comment
-  TimSepakbola(string name) {
+  TimSepakbola(String name) {
     nama = name;
     skor = 0;
     isOnMatch = false;

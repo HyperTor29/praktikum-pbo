@@ -1,5 +1,5 @@
 /*
-	Asersi.java  2/03/2023
+	Asersi1.java  2/03/2023
 	Nama      : Victorio Cristiansa Putra
 	NIM       : 24060121130084
 	Deskripsi : file asersi
